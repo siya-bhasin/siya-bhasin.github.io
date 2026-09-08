@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources for Siya to refer to:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
 ################
