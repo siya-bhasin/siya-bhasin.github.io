@@ -3,6 +3,7 @@ layout: post
 title: Sewing Sampler
 subtitle: 10 hours and 2 instances of stabbing my finger later
 gh-repo: daattali/beautiful-jekyll
+thumbnail-img: /assets/img/IMG_2118.jpg
 #gh-badge:
 tags: [test]
 comments: true
