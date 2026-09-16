@@ -10,7 +10,7 @@ mathjax: true
 author: Siya B
 ---
 Bello,
-For this assignment, we had to turn on light n when the counter hit n seconds and keep it turned on till the counter hit n+1 seconds at which light n+1 would turn on and so forth till n+8. Following light n+8 turning on, lights will turn on at times when their modular value is zero and stay turned on till the modular value of another light gets to zero. In case two lights have a modular value of zero for the same value, the lowest numbered light should get turned on.
+For this assignment, we had to turn on light n when the counter hit n seconds and keep it turned on till the counter hit n+1 seconds at which light n+1 would turn on and so forth till n+3. Following light n+3 turning on, lights will turn on at times when their modular value is zero and stay turned on till the modular value of another light gets to zero. In case two lights have a modular value of zero for the same value, the lowest numbered light should get turned on.
 
 Here is a picture of my Arduino working how it's supposed to:
 
