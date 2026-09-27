@@ -5,6 +5,7 @@ subtitle: I like that the assignment is called Blinky
 //gh-repo: daattali/beautiful-jekyll
 //gh-badge: [star, fork, follow]
 tags: [test]
+thumbnail-img: /assets/img/blinky.png
 comments: true
 mathjax: true
 author: Siya B
