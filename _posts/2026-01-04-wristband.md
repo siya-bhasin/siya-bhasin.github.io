@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 mathjax: true
 author: Siya B
-thumbnail-img: 
+thumbnail-img: /assets/img/ben10avatar.jpg
 ---
 
 Bello!
@@ -20,6 +20,9 @@ Here is the alligator clip prototype:
 ![alligator prototype](/assets/img/ben10alligator.jpg)
 Here is the paper prototype:
 ![paper prototype](/assets/img/ben10paper.jpg)
+
+Here is my Ben 10 Omnitrix watch working like it is supposed to:
+![Ominitrix](/assets/img/ben10avatar.jpg)
 
 One tip I would give my past self when working on this project would be to try not to sew through the conductive fabric as much as possible because it's really hard to sew through and I ended up ripping it most of the times.
 
