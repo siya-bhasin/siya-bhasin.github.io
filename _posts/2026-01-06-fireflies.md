@@ -21,3 +21,4 @@ One tip I would give to someone attempting this project for the first time would
 think about how they can use operators to minimize the writings in their code because it helps 
 make things less complicated and easier to go through when debugging!
 Here's a picture of all the lights flashing during Synchronous Pin:
+![fireflies](/assets/img/fireflies.jpg)
